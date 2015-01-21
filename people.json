@@ -25,7 +25,7 @@
   },
   {
     "name": "Feng",
-    "avatar": "https://d389zggrogs7qo.cloudfront.net/images/team/dan.jpg",
+    "avatar": "http://s.tutum.co.s3.amazonaws.com/support/images/Feng_Avatar.png",
     "city": "Tianjin",
     "tz": "Asia/Chongqing"
   },
@@ -37,25 +37,25 @@
   },
     {
     "name": "Alberto",
-    "avatar": "https://d389zggrogs7qo.cloudfront.net/images/team/niel.jpg",
+    "avatar": "https://avatars0.githubusercontent.com/u/3418603?v=3&s=460",
     "city": "Madrid",
     "tz": "Europe/Madrid"
   },
   {
     "name": "Carla",
-    "avatar": "https://d389zggrogs7qo.cloudfront.net/images/team/dan.jpg",
+    "avatar": "https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/083/20c/356b673.jpg",
     "city": "Madrid",
     "tz": "Europe/Madrid"
   },
   {
     "name": "Daniel",
-    "avatar": "https://pbs.twimg.com/profile_images/519400558747463680/GA4ppsNx.jpeg",
+    "avatar": "https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/1147751_650695004949880_1726802145_o.jpg",
     "city": "Mexico City",
     "tz": "America/Mexico_City"
   },
   {
     "name": "Pablo",
-    "avatar": "https://d389zggrogs7qo.cloudfront.net/images/team/dan.jpg",
+    "avatar": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/59212_10151546361118841_725975123_n.jpg?oh=3e0e05084382f78541dd90da2a94b6c3&oe=555E4C22&__gda__=1432547409_d92abd99db6db975a44ca3656b561a97",
     "city": "Madrid",
     "tz": "Europe/Madrid"
   }
